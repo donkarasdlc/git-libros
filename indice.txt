@@ -1,4 +1,5 @@
 Capitulo 1: introduccion a guit
 Capitulo 2: flujo de trabajo basico
 Capitulo 3: gestion de ramas
-Capitulo 4: repositorio remoto
+Capitulo 4: repositorio remotocapitulo 5: conceptos avanzados
+capitulo 5: conceptos avanzados
